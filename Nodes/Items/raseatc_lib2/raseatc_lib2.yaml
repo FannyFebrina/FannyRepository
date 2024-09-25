@@ -1,0 +1,352 @@
+Name: raseatc_lib2
+Type: FolderType
+Children:
+- Name: eChartLogic
+  Type: ObjectLibraryItem
+  Children:
+  - Name: eChartLogic
+    Id: g=283429b70ce24f1ea53133541a87d1b1
+    Supertype: NetLogic
+    ReferenceType: HasComponent
+    Children:
+    - Name: RefreshTime
+      Type: BaseDataVariableType
+      DataType: Int32
+      Value: 10
+    - Name: eChart1
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart2
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart3
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart4
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart5
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart6
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart7
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart8
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart9
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Name: eChart10
+      Type: BaseDataVariableType
+      DataType: Boolean
+      Value: false
+      Children:
+      - Name: TemplateName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: DataName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: WebName
+        Type: BaseDataVariableType
+        DataType: String
+        Value: ""
+      - Name: eChartNoStart
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+      - Name: eChartNoEnd
+        Type: BaseDataVariableType
+        DataType: Int16
+        Value: 0
+    - Class: Method
+      Name: RefresheChartGraph
+    - Name: eChartsValue
+      Type: BaseDataVariableType
+      DataType: Float
+      Value: 0.0
+      Children:
+      - Name: eChart1
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart2
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart3
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart4
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart5
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart6
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart7
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart8
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart9
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart10
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart11
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart12
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart13
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart14
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart15
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart16
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart17
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart18
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart19
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
+      - Name: eChart20
+        Type: BaseDataVariableType
+        DataType: Float
+        Value: 0.0
